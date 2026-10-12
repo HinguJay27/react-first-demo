@@ -23,4 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 
-*node_modules
+
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
